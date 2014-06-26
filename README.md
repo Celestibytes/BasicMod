@@ -1,3 +1,3 @@
 BasicMod
 =============
-A basic Minecraft Mod.
+A basic Minecraft Mod. Used by Okkapel's setupBasicMod script.
